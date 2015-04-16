@@ -2,7 +2,7 @@
 
 <project name="RecruitmentApp" basedir="." default="desplegarWar">
 
-	<property name="project" value="RecruitmentApp" />
+	<property name="project" value="recruitment-app" />
 	<property name="ox3" value="true" />
 	<property file="../openxava.properties"/>
 	
