@@ -1,4 +1,4 @@
-package org.recruitment.domain;
+package org.recruitment.model;
 
 import javax.persistence.*;
 

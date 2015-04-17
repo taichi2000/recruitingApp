@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<project name="RecruitmentApp" basedir="." default="desplegarWar">
+<project name="recruitment-app" basedir="." default="desplegarWar">
 
 	<property name="project" value="recruitment-app" />
 	<property name="ox3" value="true" />
